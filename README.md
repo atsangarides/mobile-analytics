@@ -1,4 +1,5 @@
 # mobile-analytics
+A compilation of modules for calculating key app usage metrics using nothing but python.
  
 ## stats
 Module containing all the functions needed to calculate the different metrics.
