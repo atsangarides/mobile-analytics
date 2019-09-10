@@ -12,3 +12,5 @@ Module containing all the plotting functions. These make use of the functions in
 <img src="/static/growth.png" alt="">
 <br>
 * retention: retention plot
+<img src="/static/retention.png" alt="">
+<br>
