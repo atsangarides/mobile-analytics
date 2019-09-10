@@ -9,12 +9,8 @@ Module containing all the functions needed to calculate the different metrics.
 
 ## visualisations
 Module containing all the plotting functions. These make use of the functions included in the `stats` module.
-<ul>
- <li>
-   growth: visualisation of growth stats <br>
-  <img src="/static/growth.png" alt="" height="75%" width="75%">
- </li>
-* retention_plots: retention plot <img src="/static/retention.png" alt="">
-* funnel-plots: single/stacked funnel plot <img src="/static/funnel.png" alt="">
- </ul>
+* growth: visualisation of growth stats <img src="/static/growth.png" alt="" height="75%" width="75%">
+* retention_plots: retention plot <img src="/static/retention.png" alt="" height="75%" width="75%">
+* funnel-plots: single/stacked funnel plot <img src="/static/funnel.png" alt="" height="75%" width="75%">
+
 
