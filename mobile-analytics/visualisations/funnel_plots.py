@@ -1,5 +1,5 @@
 from plotly import graph_objs as go
-from ..stats.funnel import create_funnel_df, group_funnel_dfs
+from stats.funnel import create_funnel_df, group_funnel_dfs
 
 
 def plot_stacked_funnel(events, steps, col=None, from_date=None, to_date=None, step_interval=0):
